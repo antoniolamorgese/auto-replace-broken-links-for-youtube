@@ -1,0 +1,185 @@
+# Translation of Plugins - Floating Related Posts by Views or Publish Date - Stable Readme (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Floating Related Posts by Views or Publish Date - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Floating Related Posts by Views or Publish Date - Stable Readme (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-01-30 14:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Short description.
+msgid "Increase your page views and bounce rate with Floating Related Posts by Views or Publish Date"
+msgstr "Aumente las vistas de su página y la tasa de rebote con “Floating Related Posts by Views or Publish Date”."
+
+#. Plugin name.
+msgid "Floating Related Posts by Views or Publish Date"
+msgstr "Floating Related Posts by Views or Publish Date"
+
+#. Found in faq paragraph.
+msgid "Yes, it's really free. There's no premium version and no need to pay money to get access to features."
+msgstr "Sí, es realmente gratis. No hay una versión premium y no es necesario pagar dinero para acceder a las funciones."
+
+#. Found in faq header.
+msgid "Wait, it's free?"
+msgstr "Espera, ¿es gratis?"
+
+#. Found in installation paragraph.
+msgid "The plugin is simple to install:"
+msgstr "El complemento es fácil de instalar:"
+
+#. Found in installation list item.
+msgid "Go to *Settings &gt; Floating Related Posts by Views or Publish Date to configure."
+msgstr "Vaya a *Configuración &gt; “Floating Related Posts by Views or Publish Date” para configurar."
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "Active el plugin a través del menú 'Plugins' en WordPress"
+
+#. Found in installation list item.
+msgid "Upload <code>Floating-Related-Posts-By-Views-Or-Date</code> directory to your <code>/wp-content/plugins</code> directory"
+msgstr "Cargue el directorio <code>Floating-Related-Posts-By-Views-Or-Date</code> directory to your <code>/wp-content/plugins</code> directory"
+
+#. Found in installation list item.
+msgid "Unzip"
+msgstr "Unzip"
+
+#. Found in installation list item.
+msgid "Download <code>Floating-Related-Posts-By-Views-Or-Date.zip</code>"
+msgstr "Descargar <code>Floating-Related-Posts-By-Views-Or-Date.zip</code>"
+
+#. Found in description paragraph.
+msgid "[https://github.com/antoniolamorgese/Floating-Related-Posts-by-Views-or-Publish-Date]"
+msgstr "[https://github.com/antoniolamorgese/Floating-Related-Posts-by-Views-or-Publish-Date]"
+
+#. Found in description paragraph.
+msgid "Please submit bugs, patches, and feature requests to:"
+msgstr "Envíe errores, parches y solicitudes de funciones a:"
+
+#. Found in description paragraph.
+msgid ""
+"You can place Floating Related Posts by Views or Publish Date at the bottom or top of your website for few seconds. \n"
+"You can change background color, text color, transparency level, banner activation seconds, and so on.\n"
+"If Polylang and WP PostViews plugins are installed \"Floating Related Posts by Views or Publish Date\" will randomly fetch all the most visited posts in the current language. \n"
+"Otherwise, the most recent posts will be shown randomly. Moreover, <code>Floating Related Posts by Views or Publish Date</code>, is compatible with PHP from 5.6 to 8.1.\n"
+"\"Floating Related Posts by Views or Publish Date\" is designed to be used on sites with a few views to sites with thousands of views."
+msgstr ""
+"Puede colocar  Floating Related Posts by Views or Publish Date en la parte inferior o superior de su sitio web durante unos segundos.\n"
+"Puede cambiar el color de fondo, el color del texto, el nivel de transparencia, los segundos de activación del banner, etc.\n"
+"Si los complementos Polylang y WP PostViews están instalados, \"Publicaciones relacionadas flotantes por vistas o fecha de publicación\" obtendrá aleatoriamente todas las publicaciones más visitadas en el idioma actual.\n"
+"De lo contrario, las publicaciones más recientes se mostrarán aleatoriamente. Además, <code> Floating Related Posts by Views or Publish Date</code>, es compatible con PHP de 5.6 a 8.1.\n"
+"\" Floating Related Posts by Views or Publish Date\" está diseñado para usarse en sitios con unas pocas vistas a sitios con miles de vistas."
+
+#. Found in description paragraph.
+msgid "Floating Related Posts by Views or Publish Date adds a banner with a cool list of related content."
+msgstr "Las Floating Related Posts by Views or Publish Date agregan un banner con una lista interesante de contenido relacionado."
+
+#. Found in description header.
+msgid "Support"
+msgstr "Apoyo"
+
+#. Screenshot description.
+msgid "Admin panel to set options plugin"
+msgstr "Panel de administración para configurar el plugin de opciones"
+
+#. Screenshot description.
+msgid "Floating Related Posts by Views or Publish Date on smartphone"
+msgstr "Floating Related Posts by Views or Publish Date en el smartphone"
+
+#. Screenshot description.
+msgid "Floating Related Posts by Views or Publish Date on desktop"
+msgstr "Floating Related Posts by Views or Publish Date en el Dispositivo desktop"
+
+#. Found in changelog list item.
+msgid "First Release"
+msgstr "Primer Release"
+
+#. Found in changelog list item.
+msgid "Added option \"opacity\" to set transparency level."
+msgstr "Se agregó la opción \"opacity\" para establecer el nivel de transparencia."
+
+#. Found in changelog list item.
+msgid "Added close button banner."
+msgstr "Añadido banner de botón de cierre."
+
+#. Found in admin panel option "Active Status".
+msgid "Active Status:"
+msgstr "Estado activo:"
+
+#. Found in admin panel option "Desktop Visibility".
+msgid "Desktop Visibility:"
+msgstr "Visibilidad Desktop:"
+
+#. Found in admin panel option "Mobile Visibility".
+msgid "Mobile Visibility:"
+msgstr "Visibilidad Mobile:"
+
+#. Found in admin panel option "Excerpt:".
+msgid "Excerpt:"
+msgstr "extracto:"
+
+#. Found in admin panel option "Background Color:".
+msgid "Background Color:"
+msgstr "Color de fondo:"
+
+#. Found in admin panel option "Vertical Position:".
+msgid "Vertical Position:"
+msgstr "Posición vertical:"
+
+#. Found in admin panel option "Horizontal Position:".
+msgid "Horizontal Position:"
+msgstr "Posicion horizontal:"
+
+#. Found in admin panel option "Opacity:".
+msgid "Opacity:"
+msgstr "Opacidad:"
+
+#. Found in admin panel option "Seconds To Activation:".
+msgid "Seconds To Activation:"
+msgstr "Segundos para la activación:"
+
+#. Found in admin panel option "Seconds To Deactivation:".
+msgid "Seconds To Deactivation:"
+msgstr "Segundos para la desactivación:"
+
+#. Found in admin panel option's label "Enable Plugin".
+msgid "Enable Plugin"
+msgstr "Habilitar Plugin"
+
+#. Found in admin panel option's label "Enable Desktop Visibility".
+msgid "Enable Desktop Visibility"
+msgstr "Habilitar la visibilidad Desktop"
+
+#. Found in admin panel option's label "Enable Mobile Visibility".
+msgid "Enable Mobile Visibility"
+msgstr "Habilitar la visibilidad Mobile"
+
+#. Found in admin panel option's label "Excerpt include into banner".
+msgid "Excerpt include into banner"
+msgstr "Extracto incluido en banner"
+
+#. Found in admin panel option's label "Go to Bootstrap 4 Alerts Color Code...".
+msgid "Go to Bootstrap 4 Alerts Color Code..."
+msgstr "Ir a Bootstrap 4 Código de color de alertas..."
+
+#. Found in admin panel option's label "(Transparency level)".
+msgid "(Transparency level)"
+msgstr "(Nivel de transparencia)"
+
+#. Found in admin panel option's label "Enter a value between 15 and 120.".
+msgid "Enter a value between 15 and 120."
+msgstr "Introduzca un valor entre 15 y 120."
+
+#. Found in admin panel "Settings".
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Found in admin panel "Description plugin".
+msgid "Increase website traffic free using Floating Related Posts by Views or Publish Date. Show Floating Related Posts at the bottom or top of your visitor screen. If the <a target='_blank' href='https://wordpress.org/plugins/polylang/' alt='Polylang Plugin Page'>Polylang</a> and <a target='_blank' href='https://wordpress.org/plugins/wp-postviews/' alt='Wp PostViews Plugin Page'>WP PostViews</a> plugins are installed <b>Floating Related Posts by Views or Publish Date</b> will randomly fetch all the most visited posts in the current language. Otherwise, the most recent posts will be shown randomly."
+msgstr "Aumente el tráfico del sitio web de forma gratuita utilizando Floating Related Posts by Views or Publish Date. Muestre Floating Related Posts by Views or Publish Date. en la parte inferior o superior de la pantalla de su visitante. Si <a target='_blank' href='https://wordpress.org/plugins/polylang/' alt='Polylang Plugin Page'>Polylang</a> y <a target='_blank' href='https ://wordpress.org/plugins/wp-postviews/' alt='Página del complemento Wp PostViews'>WP PostViews</a> Los complementos están instalados <b>Floating Related Posts by Views or Publish Date</b> se buscarán aleatoriamente todas las publicaciones más visitadas en el idioma actual. De lo contrario, las publicaciones más recientes se mostrarán aleatoriamente."
