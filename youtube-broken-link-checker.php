@@ -193,7 +193,7 @@ if(!function_exists('youtube_broken_link_checker_add_Code_html_in_tag_body')) {
 						$message .=	"Post: " . get_the_title() . "<br>";
 						$message .=	"URL Post: " . get_the_permalink() . "<br>";
 						$message .=	"URL Youtube: " . esc_url($_COOKIE['youtubeUrl']);
-						if(is_page()) {
+						if(is_page() || is_single()) {
 							wp_mail( $to, $subject, $message, $headers );
 							setcookie("youtubeUrl", "", time() - 3600);				
 
