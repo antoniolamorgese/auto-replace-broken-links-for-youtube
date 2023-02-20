@@ -10,7 +10,7 @@ Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Grazie all'azione eseguita dal plugin, sui tuoi contenuti, potrai migliorare la SEO e l'esperienza utente controllando i collegamenti interrotti di Youtube sul tuo sito web.
+Grazie all'azione eseguita dal plugin, sui tuoi contenuti, potrai garantire sempre e comunque l'attendibilità dei link di Youtube, incorporati, migliorando la SEO e l'esperienza utente.
 
 == Descrizione ==
 
