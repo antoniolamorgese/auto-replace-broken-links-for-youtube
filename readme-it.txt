@@ -14,7 +14,7 @@ Grazie all'azione eseguita dal plugin, sui tuoi contenuti, potrai migliorare la 
 
 == Descrizione ==
 
-Auto Replace Broken Links For Youtube nasconde o sostituisce tutti i link relativi ai video di YouTube, interrotti o non più validi, per migliorare la SEO e garantire sempre la tua autorevolezza sui motori di ricerca.
+Auto Replace Broken Links For Youtube sostituisce tutti i link relativi ai video di YouTube, interrotti o non più validi, con altrettanti link validi cercati su Youtube in base alla frase chiave presente nell'articolo. Questo Plugin è stato studiato per migliorare la SEO e impedire che i tuoi post, che incorporano contenuti di Youtube non più attendibili, possano essere penalizzati. Sarà garantita, così, la tua autorevolezza sul web.
 
 Auto Replace Broken Links For Youtube monitora e controlla tutti i collegamenti interni ed esterni di Youtube, sul tuo sito web, interrotti o non più raggiungibili. Nasconde o sostituisce tutti i link video di YouTube ripristinandoli per migliorare la SEO e l'esperienza dell'utente.
 Una volta installato, il plug-in, durante la visualizzazione di un post, inizierà ad analizzare il contenuto e a cercare eventuali collegamenti video di YouTube interrotti. Una volta terminata l'analisi, il plug-in inizierà a controllare ogni collegamento per verificarne la validità.
