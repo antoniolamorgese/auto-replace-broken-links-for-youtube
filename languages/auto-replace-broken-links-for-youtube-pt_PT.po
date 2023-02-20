@@ -1,0 +1,115 @@
+# Translation of Plugins - Youtube Broken Link Checker - Stable Readme (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Youtube Broken Link Checker - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Youtube Broken Link Checker - Stable Readme (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-02-09 11:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Short description.
+msgid "Thanks to the action performed by the plugin on your content, you will be able to improve SEO and user experience by checking all the broken Youtube links on your website"
+msgstr "Graças à ação realizada pelo plug-in em seu conteúdo, você poderá melhorar o SEO e a experiência do usuário, verificando todos os links quebrados do Youtube em seu site"
+
+#. Found in admin panel "Settings".
+msgid "Settings"
+msgstr "Configurações"
+
+#. Found in admin panel "Enable email notifications".
+msgid "Enable email notifications"
+msgstr "Ativar notificações por e-mail"
+
+#. Found in admin panel "How to Get YouTube Data API Key".
+msgid "How to Get YouTube Data API Key"
+msgstr "Como obter a chave da API de dados do YouTube"
+
+#. Found in subject email notification "Youtube Broken Link Checker HAS DETECTED".
+msgid "Auto Replace Broken Links For Youtube HAS DETECTED"
+msgstr "Auto Replace Broken Links For Youtube DETECTADO"
+
+#. Found in body email notification "Youtube Broken Link Checker has detected new broken links on your site".
+msgid "Auto Replace Broken Links For Youtube has detected new broken links on your site"
+msgstr "O verificador de links quebrados do Youtube detectou novos links quebrados em seu site"
+
+#. Found in body email notification "here's the list".
+msgid "here's the list"
+msgstr "aqui está a lista"
+
+#. Found in body email notification.
+msgid "The Broken video links are no longer visible within the post"
+msgstr "Os links de vídeo quebrados não estão mais visíveis na postagem"
+
+#. Found in body email notification.
+msgid "The broken video links have been replaced with another valid URL"
+msgstr "Os links de vídeo quebrados foram substituídos por outro URL válido"
+
+#. Found in admin panel.
+msgid "Youtube API Key"
+msgstr "Youtube API Key"
+
+#. Found in admin panel.
+msgid "Important: broken youtube links will not be checked if a Youtube API Key is not provided."
+msgstr "Importante: links quebrados do YouTube não serão verificados se uma chave de API do YouTube não for fornecida."
+
+#. Found in admin panel.
+msgid "Please click here and enter your API Key now."
+msgstr "Clique aqui e digite sua chave de API agora."
+
+#. Found in admin panel.
+msgid "Action"
+msgstr "Ação"
+
+#. Found in admin panel.
+msgid "Youtube Broken Links"
+msgstr "Links Quebrados do Youtube"
+
+#. Found in admin panel.
+msgid "ID Post"
+msgstr "ID Post"
+
+#. Found in admin panel.
+msgid "Detected"
+msgstr "Detectou"
+
+#. Found in admin panel.
+msgid "Post"
+msgstr "Post"
+
+#. Found in admin panel.
+msgid "URL Post"
+msgstr "URL Post"
+
+#. Found in admin panel.
+msgid "Sent"
+msgstr "Enviado"
+
+#. Found in admin panel.
+msgid "Method"
+msgstr "Método"
+
+#. Found in admin panel.
+msgid "in progress"
+msgstr "em andamento"
+
+#. Found in admin panel.
+msgid "WATCH VIDEO NOW"
+msgstr "ASSISTA O VÍDEO AGORA"
+
+#. Found in admin panel.
+msgid "Sent email every"
+msgstr "Enviado e-mail a cada"
+
+#. Found in admin panel.
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#. Found in admin panel.
+msgid "Next &raquo;"
+msgstr "Próximo &raquo;"
