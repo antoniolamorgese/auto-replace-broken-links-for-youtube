@@ -14,11 +14,11 @@ Improve SEO and user experience with Youtube broken links checker on your websit
 
 == Description ==
 
-Auto Replace Broken Links For Youtube hide all broken links youtube videos to improve SEO.
+Auto Replace Broken Links For Youtube replaces all the links related to YouTube videos, broken or no longer valid, with as many valid links searched on Youtube based on the keyword phrase present in the article. This Plugin has been designed to improve SEO and prevent your posts, which incorporate YouTube content that is no longer reliable, from being penalised. Thus, your authority on the web will be guaranteed.
 
-Auto Replace Broken Links For Youtube monitors and checks all internal and external Youtube links on your website that are broken or unreachable. Hide or replace all YouTube video links by restoring them to improve SEO and user experience.
+Auto Replace Broken Links For Youtube monitors and checks all internal and external Youtube links on your website that are broken or unreachable. It replaces all YouTube video links by restoring them, looking for new ones on Youtube, to improve SEO and user experience.
 Once installed, the plugin, while viewing a post, will start analyzing the content and looking for any broken YouTube video links. Once the analysis is finished, the plugin will start checking each link for validity.
-Broken links, if detected, will be hidden or replaced with other youtube links searched independently based on the key phrase of the post. This is to prevent search engines from penalizing your content. The plugin will send an email to the administrator to notify the result of the operation.
+Broken links, if detected, will be replaced with other youtube links searched independently based on the key phrase of the post. This is to prevent search engines from penalizing your content. The plugin will send an email to the administrator to notify the result of the operation.
 
 == Frequently Asked Questions ==
 
