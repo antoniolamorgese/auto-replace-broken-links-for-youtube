@@ -10,7 +10,7 @@ Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Improve SEO and user experience with Youtube broken links checker on your website 
+Thanks to the action performed by the plugin on your content, you will always be able to guarantee the reliability of the embedded Youtube links, improving SEO and the user experience.
 
 == Description ==
 
