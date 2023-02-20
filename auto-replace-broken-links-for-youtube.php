@@ -406,9 +406,6 @@ if(!function_exists('auto_replace_broken_links_for_youtube_add_Code_html_in_tag_
 								// Request XMLHTTP OK
 								var data = JSON.parse(xhr.responseText);
 								if(data.pageInfo.totalResults <= 0){
-									// Video OK
-									//console.log('Auto Replace Broken Links For Youtube => Video OK');
-								//} else {
 									// Video NOK
 									if(action === 'Hide Video') {
 										// Hide Video Action
