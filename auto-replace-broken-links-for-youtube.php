@@ -65,11 +65,11 @@ function auto_replace_broken_links_for_youtube_status_link ( $links ) {
 	 */
 	$locale = get_locale();
 	if ( function_exists( 'pll_current_language' ) || isset($_COOKIE[ 'pll_language' ]) ) {
-		if (preg_match('/^[a-zA-Z]{2}$/', esc_html($_COOKIE[ 'pll_language' ]))) {
+		if (preg_match('/^[a-zA-Z]{2}$/', esc_html(sanitize_text_field($_COOKIE[ 'pll_language' ])))) {
 			/** 
 			 * Sanitize, Validate and Escape Cookie value
 			 */			
-			$locale = isset($_COOKIE['pll_language']) ? esc_html($_COOKIE['pll_language']) : esc_html(pll_current_language());	
+			$locale = isset($_COOKIE['pll_language']) ? esc_html(sanitize_text_field($_COOKIE['pll_language'])) : esc_html(pll_current_language());	
 			if(isset($locale)) $locale = esc_html($locale) . '_';		
 		}
 	}	
