@@ -64,6 +64,7 @@ function auto_replace_broken_links_for_youtube_status_link ( $links ) {
 	 * Get locale URL website
 	 */
 	$locale = get_locale();
+	// if PolyLang Plugin installed
 	if ( function_exists( 'pll_current_language' ) ) {
 		if (preg_match('/^[a-zA-Z]{2}$/', pll_current_language())) {
 			$locale = pll_current_language();	
