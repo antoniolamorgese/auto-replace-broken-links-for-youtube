@@ -64,29 +64,25 @@ function auto_replace_broken_links_for_youtube_status_link ( $links ) {
 	 * Get locale URL website
 	 */
 	$locale = get_locale();
-	if ( function_exists( 'pll_current_language' ) || isset($_COOKIE[ 'pll_language' ]) ) {
-		if (preg_match('/^[a-zA-Z]{2}$/', esc_html(sanitize_text_field($_COOKIE[ 'pll_language' ])))) {
-			/** 
-			 * Sanitize, Validate and Escape Cookie value
-			 */			
-			$locale = isset($_COOKIE['pll_language']) ? esc_html(sanitize_text_field($_COOKIE['pll_language'])) : esc_html(pll_current_language());	
-			if(isset($locale)) $locale = esc_html($locale) . '_';		
+	if ( function_exists( 'pll_current_language' ) ) {
+		if (preg_match('/^[a-zA-Z]{2}$/', pll_current_language()) {
+			$locale = pll_current_language();	
 		}
 	}	
 	$urlWebSite='https://www.phpcodewizard.it/antoniolamorgese';
 	try {
 		if(isset($locale)) {
-			if (strpos($locale, 'it_') !== false) {
+			if (strpos($locale, 'it') !== false) {
 				$urlWebSite=$urlWebSite . '/it';
-			} else if (strpos($locale, 'en_') !== false) {
+			} else if (strpos($locale, 'en') !== false) {
 				$urlWebSite=$urlWebSite . '/en';
-			} else if (strpos($locale, 'es_') !== false) {
+			} else if (strpos($locale, 'es') !== false) {
 				$urlWebSite=$urlWebSite . '/es';
-			} else if (strpos($locale, 'de_') !== false) {
+			} else if (strpos($locale, 'de') !== false) {
 				$urlWebSite=$urlWebSite . '/de';
-			} else if (strpos($locale, 'pt_') !== false) {
+			} else if (strpos($locale, 'pt') !== false) {
 				$urlWebSite=$urlWebSite . '/pt';
-			} else if (strpos($locale, 'fr_') !== false) {
+			} else if (strpos($locale, 'fr') !== false) {
 				$urlWebSite=$urlWebSite . '/fr';
 			} else {
 				$urlWebSite=$urlWebSite . '/en';
