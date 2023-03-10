@@ -246,12 +246,12 @@ if(!function_exists('auto_replace_broken_links_for_youtube_add_Code_html_in_tag_
 
 									<?php if(wp_is_mobile()){ ?>
 										var urlYoutubeThumbnail = data2.items[0].snippet.thumbnails.medium.url;
-										var CodeHTMLthumbnail = '<a target="_blank" alt="' + titleYoutubeVideo + '" href="'+urlYoutube + '"><img style="width:320px; height:180px;" src="' + urlYoutubeThumbnail + '"</a>'; 
+										var CodeHTMLthumbnail = '<center><a target="_blank" alt="' + titleYoutubeVideo + '" href="'+urlYoutube + '"><img style="width:320px; height:180px;" src="' + urlYoutubeThumbnail + '"</a></center>'; 
 									<?php } else { ?>
 										var urlYoutubeThumbnail = data2.items[0].snippet.thumbnails.high.url;
-										var CodeHTMLthumbnail = '<a target="_blank" alt="' + titleYoutubeVideo + '" href="' + urlYoutube + '"><img style="width:640px; height:480px;" src="' + urlYoutubeThumbnail + '"</a>'; 
+										var CodeHTMLthumbnail = '<center><a target="_blank" alt="' + titleYoutubeVideo + '" href="' + urlYoutube + '"><img style="width:640px; height:480px;" src="' + urlYoutubeThumbnail + '"</a></center>'; 
 									<?php } ?>
-									CodeHTMLCaptionThumbnail = '<a target="_blank" alt="' + titleYoutubeVideo + '" href="' + urlYoutube + '">'+titleYoutubeVideo + '</a>'; 
+									CodeHTMLCaptionThumbnail = '<center><a target="_blank" alt="' + titleYoutubeVideo + '" href="' + urlYoutube + '">'+titleYoutubeVideo + '</a></center>'; 
 
 									currentElement__wrapper.html('<p>' + CodeHTMLthumbnail + '<br><center>' + CodeHTMLCaptionThumbnail + '</center></p>');
 									jQuery('.wp-element-caption').hide('fast');
