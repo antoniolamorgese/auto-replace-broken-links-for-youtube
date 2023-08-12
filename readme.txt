@@ -4,8 +4,8 @@ Contributors: antoniolamorgese
 Donate link: https://www.paypal.com/paypalme/AntonioLAMORGESE
 Tags: broken link, broken link youtube, links, internal link, external link,
 Requires at least: 5.3
-Tested up to: 6.1.1
-Stable tag: 1.0.0
+Tested up to: 6.3
+Stable tag: 1.1.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -36,7 +36,7 @@ The plugin is simple to install:
 
 1. Download 'auto-replace-broken-links-for-youtube.zip'
 2. Unzip
-3. Upload 'youtube-broken-link-checker' directory to your '/wp-content/plugins' directory, or install the plugin throught the Wordpress plugins screen directly.
+3. Upload 'auto-replace-broken-links-for-youtube' directory to your '/wp-content/plugins' directory, or install the plugin throught the Wordpress plugins screen directly.
 4. Activate the plugin through the 'Plugins' menu in WordPress.
 5. Go to *Settings > Auto Replace Broken Links For Youtube to configure the plugin.
 
