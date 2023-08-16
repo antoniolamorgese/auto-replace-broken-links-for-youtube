@@ -1,5 +1,4 @@
 <?php
-ob_start();
 /**
  * Auto Replace Broken Links For Youtube
  *
